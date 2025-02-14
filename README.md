@@ -1,14 +1,14 @@
-# Game-ified Productivity App
-Creating a Gamified Productivity App `<insert name here>` to Help People Have Fun While Getting Things Done 
+# Taskagotchi
+Creating a Gamified Productivity App `Taskagotchi` to Help People Have Fun While Getting Things Done 
 
 ## Team #
 4
 
 ## Product Name
-Gamified Productivity App
+Taskagotchi 
 
-Name Ideas, TBD:
-- Task-agotchi
+Name Ideas, to be solidified:
+- Task-agotchi (current frontrunner)
 - Chorlings (or maybe Chorelings?) 
 - Boulder Crossing
 - Progress Pals
@@ -30,7 +30,7 @@ Wednesdays, 3pm MT
 ## Vision Statement
 Changing a routine is hard, especially if you’re stuck in a rut due to burnout, depression, or just plain apathy. The inertia of old routines can take over, making new tasks feel impossible as you struggle to find motivation and create new momentum. When setting new personal goals, many people will just use a calendar, sticky notes, their default reminder app, or some other overused, ineffective method. While these solutions may seem "straightforward", they're also boring, and worse: they don't actually improve motivation. This causes people to give up quickly, or be hard on themselves when they don’t fulfill their own goals. 
 
-Our solution: gamifying productivity and habit changes through constant and immediate feedback, making a difficult change both fun and engaging. `{Product Name}` will help people break out of this loop by introducing an alternative method for conceptualizing self-defined paths to success. Users can keep track of deadlines for work projects, school assignments, appointments, meetings, and more. Users can also set reminders for doing chores, taking medication, or any other type of activity that they need a little extra motivation to remember. By combining habit tracking with daily streaks, motivational achievements, and other fun and engaging mechanics, `{Product Name}` will provide a new way for users of all ages to make progress in nearly any aspect of their daily lives.
+Our solution: gamifying productivity and habit changes through constant and immediate feedback, making a difficult change both fun and engaging. `Taskagotchi` will help people break out of this loop by introducing an alternative method for conceptualizing self-defined paths to success. Users can keep track of deadlines for work projects, school assignments, appointments, meetings, and more. Users can also set reminders for doing chores, taking medication, or any other type of activity that they need a little extra motivation to remember. By combining habit tracking with daily streaks, motivational achievements, and other fun and engaging mechanics, `Taskagotchi` will provide a new way for users of all ages to make progress in nearly any aspect of their daily lives.
 
 ## Motivation
 We want to make productivity fun so habits stick. As post-bacc students, we know firsthand the value of deciding to change direction and embark on a new journey in life. At the same time, it’s human nature to take the path of least resistance, especially when balancing demands such as school, work, family, and life. Through this project, we aim to create something that will help ourselves and others follow through with their goals by making productivity fun, and by creating a positive and affirmative system of accountability.
